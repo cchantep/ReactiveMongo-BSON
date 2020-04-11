@@ -135,4 +135,4 @@ To run the tests, use:
 
     sbt test
 
-[Travis](https://travis-ci.org/ReactiveMongo/ReactiveMongo-BSON): ![Travis build status](https://travis-ci.org/ReactiveMongo/ReactiveMongo-BSON.png?branch=master)
+[![CircleCI](https://circleci.com/gh/ReactiveMongo/ReactiveMongo-BSON.svg?style=svg)](https://circleci.com/gh/ReactiveMongo/ReactiveMongo-BSON)
